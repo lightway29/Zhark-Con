@@ -2,8 +2,9 @@
   "name": "zharkconnect",
   "version": "0.0.0",
   "private": true,
+  "main": "InsertDataFromURL.js",
   "scripts": {
-    "start": "InsertDataFromURL.js"
+    "start": "node InsertDataFromURL.js"
   },
   "dependencies": {
     "body-parser": "~1.13.2",
